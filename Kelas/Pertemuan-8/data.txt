@@ -1,0 +1,5 @@
+Steven,28,pria
+Michael,25,pria
+Ucup,28,pria
+Dimas,19,pria
+Daffa,20,pria
